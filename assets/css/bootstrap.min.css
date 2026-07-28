@@ -2662,10 +2662,10 @@ fieldset:disabled a.btn {
 .btn-primary.focus,
 .btn-primary:focus {
   color: #fff;
-  background-color: #8536b0;
-  border-color: #7c33a3;
-  -webkit-box-shadow: 0 0 0 0.15rem rgba(111, 132, 234, 0.5);
-  box-shadow: 0 0 0 0.15rem rgba(111, 132, 234, 0.5);
+  background-color: #1d4ed8;
+  border-color: #1e40af;
+  -webkit-box-shadow: 0 0 0 0.15rem rgba(59, 130, 246, 0.5);
+  box-shadow: 0 0 0 0.15rem rgba(59, 130, 246, 0.5);
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
@@ -6684,7 +6684,7 @@ button.bg-success:hover {
   background-color: #299b71 !important;
 }
 .bg-info {
-  background-color: #b074d1 !important;
+  background-color: #3b82f6 !important;
 }
 a.bg-info:focus,
 a.bg-info:hover,

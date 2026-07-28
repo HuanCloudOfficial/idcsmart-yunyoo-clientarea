@@ -76,12 +76,12 @@ select {
 }
 .row.align-items-center.server_header_box .custom-button, .row.align-items-center.server_header_box .left_wrap_btn {
     background-color: var(--blue) !important;
-    box-shadow: 0px 6px 14px 2px rgb(131 21 191 / 50%) !important;
+    box-shadow: 0px 6px 14px 2px rgb(59 130 246 / 50%) !important;
 }
 .powerimg {
     width: 48px !important;
     height: 48px !important;
-    box-shadow: 0px 6px 14px 2px rgb(131 21 191 / 50%) !important;
+    box-shadow: 0px 6px 14px 2px rgb(59 130 246 / 50%) !important;
     border-radius: 50% !important;
 }
 .left_wrap_btn {
@@ -130,7 +130,7 @@ select {
 }
 .badge-soft-yunyoo {
     color: var(--bs-global);
-    background-color: rgba(176, 116, 209, 0.18);
+    background-color: rgba(59, 130, 246, 0.18);
 }
 .bl-hover:hover, .bl-hov:hover {
     border-width: 8px;
@@ -251,26 +251,26 @@ pre.newscontent {
 }
 
 :root {
-    --bs-global: #b074d1;
-    --bs-global-1: #f2e9f8;
-    --bs-global-2: #f8f3fb;
-    --bs-global-3: #d7b9e8;
-    --bs-global-o-1: rgba(176, 116, 209, 0.1);
-    --bs-global-o-2: rgba(176, 116, 209, 0.2);
-    --bs-global-o-3: rgba(176, 116, 209, 0.3);
-    --bs-global-o-4: rgba(176, 116, 209, 0.4);
-    --bs-global-o-5: rgba(176, 116, 209, 0.5);
-    --bs-global-o-0: rgba(176, 116, 209, 0);
+    --bs-global: #3b82f6;
+    --bs-global-1: #eff6ff;
+    --bs-global-2: #dbeafe;
+    --bs-global-3: #bfdbfe;
+    --bs-global-o-1: rgba(59, 130, 246, 0.1);
+    --bs-global-o-2: rgba(59, 130, 246, 0.2);
+    --bs-global-o-3: rgba(59, 130, 246, 0.3);
+    --bs-global-o-4: rgba(59, 130, 246, 0.4);
+    --bs-global-o-5: rgba(59, 130, 246, 0.5);
+    --bs-global-o-0: rgba(59, 130, 246, 0);
     --bs-btn-color: #fff;
     --bs-btn-bg: var(--bs-global);
     --bs-btn-border-color: var(--bs-global);
     --bs-btn-hover-color: #fff;
-    --bs-btn-hover-bg: #9e40d1;
-    --bs-btn-hover-border-color: #8536b0;
-    --bs-btn-focus-shadow-rgb: 107, 95, 223;
+    --bs-btn-hover-bg: #2563eb;
+    --bs-btn-hover-border-color: #1d4ed8;
+    --bs-btn-focus-shadow-rgb: 59, 130, 246;
     --bs-btn-active-color: #fff;
-    --bs-btn-active-bg: #8536b0;
-    --bs-btn-active-border-color: #7c33a3;
+    --bs-btn-active-bg: #1d4ed8;
+    --bs-btn-active-border-color: #1e40af;
     --bs-btn-active-shadow: none;
     --bs-btn-disabled-color: #fff;
     --bs-btn-disabled-bg: var(--bs-global);

@@ -1,6 +1,6 @@
 {assign name="yunyoo_var" value="1.0.0" /}
 
-<link rel="shortcut icon" href="/themes/clientarea/yunyoo/assets/images/favicon.ico">
+<link rel="icon" type="image/x-icon" href="/themes/web/huancloud/favicon.ico">
 <link href="/themes/clientarea/yunyoo/assets/css/bootstrap.min.css?v={$yunyoo_var}.{$Ver}" rel="stylesheet" type="text/css" />
 <link href="/themes/clientarea/yunyoo/assets/css/icons.min.css?v={$yunyoo_var}.{$Ver}" rel="stylesheet" type="text/css" />
 <link href="/themes/clientarea/yunyoo/assets/css/app.min.css?v={$yunyoo_var}.{$Ver}" rel="stylesheet" type="text/css" />
